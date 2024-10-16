@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **vermavineet9140@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12UO_mj275WJ7lojLE0f1fNywf3S80eMP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
