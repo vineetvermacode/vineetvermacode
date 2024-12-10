@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/alphaboyvineet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alphaboyvineet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vineetvermacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineetvermacode" height="30" width="40" /></a>
-<a href="https://instagram.com/alpha_boy_vineet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alpha_boy_vineet" height="30" width="40" /></a>
+<a href="https://instagram.com/alphavineet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alpha_boy_vineet" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vineetverma123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vineetverma123" height="30" width="40" /></a>
 </p>
 
