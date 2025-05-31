@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Verma</h1>
-<h3>Motivated B.Tech IT student with a solid foundation in Java, Python, and web technologies. Experienced in real-time app development and machine learning models. Skilled in problem-solving, web development, and cybersecurity, with strong adaptability and communication skills. Eager to contribute to innovative solutions in fast-paced environments.</h3>
+<h3 align="justify">Motivated B.Tech IT student with a solid foundation in Java, Python, and web technologies. Experienced in real-time app development and machine learning models. Skilled in problem-solving, web development, and cybersecurity, with strong adaptability and communication skills. Eager to contribute to innovative solutions in fast-paced environments.</h3>
 
 - 🔭 I’m currently working on **CronicCare AI**
 
